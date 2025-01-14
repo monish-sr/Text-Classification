@@ -8,8 +8,6 @@ This project focuses on text classification for identifying whether a message is
 This project utilizes the Mail dataset, which includes spam mails and non spam(Ham) mails. This dataset contains 31 rows and 2 columns.
 
 ## Methodology
-### **Methodology**  
-
 1. **Data Collection**:  
    - Used the dataset `Spam or Ham.csv`, containing messages and their corresponding labels (spam or ham).
 
